@@ -33,7 +33,7 @@ function Search({selectedTag}) {
   return (
     <div className='flex justify-center mt-8 flex-col 
     px-[70] md:px-[150px]'>
-        <img src={banner} className='rounded-2xl ' />
+        <img src={banner} className='rounded-2xl w-[fullwidth] h-[100px]' />
        <div className='bg-white shadow-lg p-3
        rounded-lg mt-[-20px] mx-[23%] flex items-center'>
             <IoSearchOutline className='text-[20px]

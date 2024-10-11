@@ -7,7 +7,7 @@ import {IoLogoYoutube} from "react-icons/io5";
 function Header() {
   return (
     <div className='flex justify-between items-center'>
-        <img src={logo} className='w-[180px]'/>
+        <img src={logo} className='w-[80px]'/>
         <ul className='flex gap-4 md:gap-14'>
             <li className='hover : font-bold cursor-pointer'>Home</li>
             <li className='hover : font-bold cursor-pointer'>About Us</li>
